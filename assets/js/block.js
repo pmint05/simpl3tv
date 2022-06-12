@@ -1,5 +1,4 @@
 function detectDevTool() {
-	console.log("detectDevTool");
 	setTimeout(() => {
 		if (
 			window.innerWidth < window.outerWidth - 100 ||
