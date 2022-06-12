@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta property="og:url" content="https://pmint05.github.io/tv2in1" />
+    <meta property="og:title" content="Web xem thời sự =))" />
+    <meta property="og:description" content="Vừa xem TV vừa lướt FB" />
+    <link rel="image_src" type="image/jpeg" href="https://pmint05.github.io/hack-fb-html/assets/img/thumbnail.jpg" />
+    <meta property="article:author" content="https://pmint05.github.io/tv2in1/" />
+    <meta name="AUTHOR" content="Pmint05" />
+    <meta name="COPYRIGHT" content="Copyright (C) 2022 @Rhinzo" />
+    <meta name="RATING" content="GENERAL" />
+    <link rel="icon" type="image/png" href="./assets/images/favicon.png" />
+    
+
+    <title>RHINZO TV.</title>
+    <script src="./assets/js/block.js" defer></script>
+    <script src="./assets/js/script.js" defer></script>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <div id="app">
+        <div id="loadingWrapper">
+            <div class="circle-loading"></div>
+        </div>
+        <header>
+            <button id="showOptions" onclick="toggleOptions()">
+                <ion-icon name="options-outline"></ion-icon>
+            </button>
+            <span> RHINZO </span>
+            <mc>TV.</mc>
+            <button id="pip" onclick="pip()">
+                <ion-icon name="tv-outline"></ion-icon>
+            </button>
+        </header>
+        <div id="mainApp">
+            <div id="tvWrapper" class="active">
+                <div id="tvInner">
+                    <video id="tv" class="video-js vjs-default-skin" controls preload="none">
+                        <source type="application/x-mpegURL" src="" />
+                    </video>
+                </div>
+
+                <div id="selectField">
+                    <div id="selectGr">
+                        <h3>
+                            Your <mc>life</mc>, your
+                            <mc>choice</mc>.
+                        </h3>
+                        <div class="selectGroup">
+                            <label for="channelGr">Channel group:</label>
+                            <select name="channelGr" id="channelGr"></select>
+                            <div class="underline"></div>
+                        </div>
+                        <div class="selectGroup">
+                            <label for="channels">Channel:</label>
+                            <select name="channels" id="channels"></select>
+                            <div class="underline"></div>
+                        </div>
+                    </div>
+                    <div id="selectWeb">
+                        <h3>
+                            <mc>2</mc> in <mc>1</mc>
+                        </h3>
+                        <div class="selectGroup">
+                            <label for="website">Website:</label>
+                            <select name="website" id="website">
+                                <option value="https://www.facebook.com/">
+                                    Facebook
+                                </option>
+                                <option value="https://youtube.com/">
+                                    Youtube
+                                </option>
+                                <option value="https://google.com/">
+                                    Google
+                                </option>
+                                <option value="https://www.tiktok.com/">
+                                    TikTok
+                                </option>
+                                <option value="https://vietnamnet.vn/">
+                                    Vietnamnet
+                                </option>
+                            </select>
+                            <div class="underline"></div>
+                        </div>
+                        <div class="urlField">
+                            <div class="inputGroup">
+                                <input type="url" name="customWeb" id="customWebInp" autocomplete="off"
+                                    placeholder="Custom website..." />
+                                <div class="underline"></div>
+                            </div>
+                            <button id="embedBtn">Embed</button>
+                        </div>
+                    </div>
+                    <div id="credit">
+                        Made with ❤️ by
+                        <mc><span data-href="https://fb.com/pmint05">Rhinzo</span></mc>
+                    </div>
+                </div>
+            </div>
+            <div id="iframeWrapper">
+                <div class="panelInfo">
+                    150x150
+                </div>
+                <div id="drag"></div>
+                <div id="btnWrapper">
+                    <button id="backwardBtn" onclick="iframeBackward();">
+                        <ion-icon name="arrow-back-outline"></ion-icon>
+                    </button>
+                    <button id="forwardBtn" onclick="iframeForward();">
+                        <ion-icon name="arrow-forward-outline"></ion-icon>
+                    </button>
+                    <button id="reloadIframeBtn" onclick="reloadIframe();">
+                        <ion-icon name="refresh-outline"></ion-icon>
+                    </button>
+                    <button id="closeIframeBtn" onclick="closeIframe();">
+                        <ion-icon name="close-outline"></ion-icon>
+                    </button>
+                </div>
+                <div id="loadingFrame">
+                    <div class="circle-loading"></div>
+                </div>
+                <iframe id="iframe" src="" frameborder="0" loading="lazy" width="320"></iframe>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.15.0/videojs-contrib-hls.min.js"></script>
+    <script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+</body>
+
+</html>

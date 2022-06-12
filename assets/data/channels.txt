@@ -1,0 +1,247 @@
+group,VTV
+ext,VTV1 HD,https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV2 HD,https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV3 HD,https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV4 HD,https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV5 HD,https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV6 HD,https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV7 HD,https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV8 HD,https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTV9 HD,http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+ext,VTV5 Tây Nam Bộ,https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+ext,VTV5 Tây Nguyên,https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+
+group,HTV
+HRTTV1.hr,HTV1,https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+ext,HTV2 HD - Vie Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+ext,HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+ext,HTV Key,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+ext,HTV7 HD,https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+ext,HTV9 HD,https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+ext,HTVC Ca Nhạc,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+ext,HTVC Du Lịch & Cuộc Sống,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+ext,HTVC Gia Đình,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+ext,HTVC Phim,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+ext,HTVC Phụ Nữ,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+ext,HTVC Thuần Việt HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+ext,HTVC Thuần Việt,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+ext,HTVC Plus,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+ext,FBNC HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+
+group,VTC
+ext,VTC1 HD,https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+ext,VTC2 HD,https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+ext,VTC3 HD,https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+ext,VTC4 HD,https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+ext,VTC5 HD,https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+ext,VTC6 HD,https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+ext,VTC7 HD  - todayTV,https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+ext,VTC8 HD,https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+ext,VTC9 HD,https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+ext,VTC10 HD,https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+ext,VTC11 HD,https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+ext,VTC12 HD - VTCK,https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+ext,VTC13 4K ( Thử Nghiệm ),http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+ext,VTC14 HD,https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+ext,VTC16 HD,https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+
+group,THỜI SỰ
+ext,ANTV HD,https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+ext,QUỐC HỘI,http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.m3u8
+ext,QUỐC PHÒNG VIỆT NAM,https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+ext,VOV TV HD,http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+ext,NHÂN DÂN HD,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+ext,VNews,https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
+group,SCTV
+ext,SCTV1,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV2,https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+ext,SCTV3,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV4,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV5,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,Fim 360 - SCTV6,https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+ext,SCTV7,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV8,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV9,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV10,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV11,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV12,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV13,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV14,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV15,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV16,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV17,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV18,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV19,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV20,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV21,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV22,https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+ext,SCTV Phim Tổng Hợp,https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+
+group,Quốc Tế
+HBOAdria.rs,HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+CinemaxO.mx,CINEMAX,https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+VivaTV.hu,VIVA TV,http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+ext,1 HD Music TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+ext,3ABN Praise Him Music Channel,https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+ext,101 Tele Antequera,https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+ext,A2i Music,https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+DiscoveryDMAX.uk,DMAX,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+Dreamworks.es,DreamWorks,https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+AXN.it,AXN HD,http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+WarnerHD.mx,Warner TV,http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+ext,KIX HD,https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+boomerang,Boomerang,https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+cartoon,Cartoon Network HD,https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+BABYFIRST.sp,Baby First,https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+baby-tv,Baby TV,https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+CBeebies.uk,Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+Animax.de,Animax,https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+ext,Cinema World,https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+da_vinci-rus,Da Vinci HD,https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+ext,Asian Food Network,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+ext,Rock Entertainment,https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+ext,Rock Extreme,https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+wild-hd,Nat Geo Wild HD,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+discov_rus,Discovery Channel,https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+ext,Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+outdoor,Outdoor Channel,https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+ext,Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+group,Hanoicab
+hitv,Hanoicab1 - HiTV,https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
+
+group,KÊNH ĐỊA PHƯƠNG
+ext,Vĩnh Long 1 HD,https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+ext,Vĩnh Long 2 HD,https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+ext,Vĩnh Long 3 HD,https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+ext,Vĩnh Long 4 HD,https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+BenficaTV.pt,BTV 1,https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+BenficaTV2.pt,BTV 2,https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+ext,BTV 3,https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
+ext,BTV4,https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
+ext,BTV6,https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+ext,BTV9 - An Viên TV,https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+ext,BTV10 - NCM,https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
+ext,Hà Nội 2 HD,http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+ext,Bình Phước 1,https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+ext,Bình Phước 2 - HOME TV,https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+ext,Đà Nẵng 1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+ext,Đà Nẵng 2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+ext,Kiên Giang,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+ext,Kiên Giang 1,http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+ext,Đồng Tháp,http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+ext,Đồng Tháp 2 - Miền Tây,http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
+ext,Yên Bái,https://yenbaitv.org.vn/hls/livestream.m3u8
+ext,Điện Biên,https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+ext,Lào Cai,http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+ext,Cao Bằng,http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
+ext,Hòa Bình,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+ext,Lai Châu,https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+ext,Bắc Kạn,http://113.160.162.131:8080/tv/bk.m3u8
+ext,Tuyên Quang,https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+ext,Thái Nguyên,https://streaming.thainguyentv.vn/hls/livestream.m3u8
+ext,Sơn La,http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w1744292611_b1384000.m3u8
+ext,Lạng Sơn,http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+ext,Quảng Ninh 1,http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+ext,Quảng Ninh 3,http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+ext,Bắc Ninh,http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+ext,Hải Phòng,https://live.thhp.vn/thp/index.m3u8
+ext,Hải Phòng +,https://live.thhp.vn/hls/thpplus/index.m3u8?1
+ext,Hưng Yên,https://live.hungyentv.vn/hytvlive/tv1live.m3u8
+ext,Thái Bình,http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+ext,Vĩnh Phúc,http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
+ext,Bắc Giang,http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+ext,Phú Thọ,https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+ext,Phú Yên,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+ext,Hà Giang,http://113.162.84.113:8080/hls/fm/index.m3u8
+ext,Hà Nam,http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8
+ext,Ninh Bình,https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+ext,Thanh Hóa,https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
+ext,Nghệ An,https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+ext,Hà Tĩnh,http://hatinhtv.vn:82/hls/httv.m3u8
+ext,Quảng Bình,https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+ext,Quảng Ngãi,http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
+ext,Quảng Nam,http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+ext,Quảng Trị,http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
+ext,Bình Thuận,http://202.43.109.144:1935/thbttv/bttv/chunklist_w1824124381.m3u8
+ext,Bình Định,http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+ext,Thừa Thiên Huế,http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
+ext,Kon Tum,http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+ext,Lâm Đồng,http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1038357030_b584000.m3u8
+ext,Đồng Nai 1,http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1168178406_b1384000.m3u8
+ext,Đồng Nai 2,http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u8
+ext,Gia Lai,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+ext,Tây Ninh,http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+ext,Bạc Liêu,https://tv.thbl.vn/live/tv/tv.m3u8
+ext,Bến Tre,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+ext,Khánh Hòa,http://210.245.20.94/hls/ktv1.m3u8
+ext,Cần Thơ,https://mekongpassion.com/live/tv/chunklist_w1950678277.m3u8
+ext,Sóc Trăng 1,http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+ext,Sóc Trăng 2,http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+ext,Cà Mau,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+ext,Long An,http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+ext,An Giang,https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
+ext,Tiền Giang,http://thtg.vn:8001/stream_hi.m3u8
+ext,Hậu Giang,https://haugiang011220.cdn.vnns.io/c4348637100c37ae599ee04eaa2ea17a1633789755/haugiang.480p.tms/chunks.m3u8|Referer=http://haugiangtivi.vn/
+ext,Bà Rịa – Vũng Tàu,http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
+
+group,Anime
+ext,Anime TV,https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+ext,Animestation,https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
+ext,AniPlus,http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+group,THỂ THAO
+ext,ACC Network,https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+ext,Adventure Sports Network,https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+ext,Adventure Sports TV,https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+ext,ATG,https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+ext,Bahrain Sports 1,http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+
+group,RADIO
+ext,VOV FM 99.9MHz,http://125.212.213.71:1935/live/channel3/playlist.m3u8
+ext,VOV FM 95.6MHz,http://125.212.213.71:1935/live/channel1/playlist.m3u8
+ext,VOH FM 87.7MHz,http://125.212.213.71:1935/live/channel5/playlist.m3u8
+ext,BẮC GIANG,https://live.bacgiangtv.vn/bgtvlive/radio.m3u8
+ext,BẮC KẠN,http://113.160.162.131:8080/hls/radio.m3u8
+ext,BẮC NINH,http://118.107.85.4:1935/radio/bacninh_aac/radio.m3u8
+ext,VŨNG TÀU,http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
+ext,BẾN TRE,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
+ext,BÌNH DƯƠNG,https://btvfm011220.cdn.vnns.io/84ca6c79b9109cb81c1e426fd81684971635333470/btv-fm.tms/chunks.m3u8
+ext,BÌNH PHƯỚC,http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
+ext,BÌNH THUẬN,http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8
+ext,CÀ MAU,http://tv.ctvcamau.vn/live/radio/radio.m3u8
+ext,CẦN THƠ,https://mekongpassion.com/live/radio/playlist.m3u8
+ext,ĐÀ NẴNG,http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
+ext,ĐỒNG NAI,http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
+ext,ĐỒNG THÁP,http://202.43.109.144:1935/thdtradio/thdtradio/playlist.m3u8
+ext,GIA LAI,http://113.161.25.3:8134/hls/radio/radio.m3u8
+ext,HẢI PHÒNG FM 93.7MHzs,https://live.thhp.vn/937/index.m3u8
+ext,HẢI PHÒNG FM GT 102.2MHz,https://live.thhp.vn/radio/102/index.m3u8
+ext,HÀ NAM,http://103.90.220.236/thhnlive/radio.m3u8
+ext,HÀ TĨNH,https://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
+ext,HẬU GIANG FM 89.6MHz,https://haugiangfm011220.cdn.vnns.io/c10859ddeb00c402a9f6ad05ae61fa5f1635335839/haugiang-fm.tms/chunks.m3u8
+ext,HƯNG YÊN,https://live.hungyentv.vn/hytvlive/radio.m3u8
+ext,KHÁNH HÒA,http://210.245.20.94/hls/radio.m3u8
+ext,KIÊN GIANG,http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
+ext,KOM TUM,http://tv.kontumtv.vn/live/radio/radio.m3u8
+ext,LAI CHÂU,https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8
+ext,LÂM ĐỒNG,http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+ext,LẠNG SƠN,http://live.langsontv.vn/lstvlive/radio-transmux.m3u8
+ext,LONG AN,http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8
+ext,NGHỆ AN,https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
+ext,NINH BÌNH,https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
+ext,PHÚ YÊN,http://113.161.4.48:8080/phuyen/radio.m3u8
+ext,QUẢNG NAM,http://113.161.6.157:8085/phatthanh/QRT.m3u8
+ext,QUẢNG NGÃI,http://118.107.85.5:1935/radio/quangngai_aac/radio.m3u8
+ext,QUẢNG NINH 1,http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
+ext,QUẢNG NINH 2,http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
+ext,QUẢNG TRỊ,http://mediatech.vncdn.vn/qrtvlive/radio.m3u8
+ext,SÓC TRĂNG FM 100.4MHz,http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
+ext,SƠN LA,http://118.107.85.5:1935/radio/sonla_aac/playlist.m3u8
+ext,TIỀN GIANG FM 96.2MHz,http://thtg.vn/live/radio/radiolive.m3u8
+ext,THÁI BÌNH,http://118.70.118.191:1935/tbtvlive/radio/playlist.m3u8
+ext,THỪA THIÊN HUẾ,http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
+ext,TUYÊN QUANG,https://live.tuyenquangtv.vn/hls/radio.m3u8
+ext,YÊN BÁI,https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+
