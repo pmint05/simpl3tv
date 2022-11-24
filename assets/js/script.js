@@ -92,6 +92,7 @@ const setChannel = (channel) => {
 	$("#tv source").setAttribute("src", channel);
 	player.src({ src: channel });
 	player.play();
+	player.error("Error");
 };
 var isResizing = false;
 
@@ -174,34 +175,6 @@ for (var i = 0; i < aTags.length; i++) {
 		window.open(ele.getAttribute("data-href"), "_blank").focus();
 	});
 }
-const embedBtn = $("#embedBtn"),
-	customWebInp = $("#customWebInp");
-embedBtn.onclick = () => {
-	if (customWebInp.value.trim().length > 0) {
-		embedWebsite(customWebInp.value);
-		customWebInp.value = "";
-	} else if (website.value.trim().length > 0) {
-		embedWebsite(website.value);
-	} else {
-		alert("Please enter a website");
-	}
-	left.classList.remove("active");
-	right.classList.add("active");
-};
-$("#iframe").onload = () => {
-	$("#loadingFrame").classList.add("loaded");
-};
-const embedWebsite = (site) => {
-	$("#loadingFrame").classList.remove("loaded");
-	$("#iframeWrapper").style.display = "block";
-	$("#iframe").src = site;
-	website.onchange = () => {
-		$("#loadingFrame").classList.remove("loaded");
-		$("#iframe").src = website.value;
-	};
-	$("#selectField").classList.add("sticky");
-	$("#showOptions").classList.add("active");
-};
 const toggleOptions = (show) => {
 	$("#selectField").classList.toggle("show");
 };
