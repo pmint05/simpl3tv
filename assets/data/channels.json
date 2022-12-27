@@ -19,7 +19,8 @@
 		},
 		{
 			"name": "VTV5 HD",
-			"link": "https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8"
+			"link": "http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8",
+			"link_2": "https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8"
 		},
 		{
 			"name": "VTV6 HD",
